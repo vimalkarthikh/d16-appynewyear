@@ -11,6 +11,6 @@ setTimeout(()=>pt.innerHTML="3",8000);
 setTimeout(()=>pt.innerHTML="2",9000);
 setTimeout(()=>pt.innerHTML="1",10000);
 setTimeout(()=>pt.innerHTML=" ",11000);
-setTimeout(()=>hn.innerHTML="Happy New Year",11000);
+setTimeout(()=>hn.innerHTML="Happy Independence Year",11000);
 
 document.body.append(pt,hn);
